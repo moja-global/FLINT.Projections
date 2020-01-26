@@ -27,6 +27,10 @@ moja global welcomes a wide range of contributions as explained in [Contributing
 
 ## Contributors
 
+Thanks to the following organisations for their financial support:
+
+<img src="http://www.levert.ma/wp-content/uploads/2018/12/UNFCCC-LOGO-1024x853.jpg" width="140px;"/>
+
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
