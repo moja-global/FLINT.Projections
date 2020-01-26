@@ -1,7 +1,14 @@
-# TITLE 
+#  Projections of GHG emissions and removals using FLINT
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-Text 
+## About this Repository
+
+FLINT Users have indicated that the ability to make projections is an essential feature. While it is already possible to run projections with the FLINT as it is a model based system, the approaches to make projections need to be continuously improved to make it easier to generate ever more complex projections. 
+
+This repository includes: 
+ * A science folder with evaluations of different approaches and ideas for additional steps and tests necessary to improve FLINT’s projections capability.
+ * Code folders with tools to generate projections
+
 
 ## How to Get Involved?  
 
