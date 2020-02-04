@@ -1,8 +1,10 @@
 # Preparing GCBM-FLINT data
 
-This document provides workflow considerations for spatially explicit modelling of forest carbon budgets using the Generic Carbon Budget Model (GCBM) and FLINT (Full Lands INtegration Tool). 
+This document provides workflow considerations for spatially explicit modelling of forest carbon budgets using the Generic Carbon Budget Model (GCBM) and FLINT (Full Lands INtegration Tool). It provides a clear overview of how the historic and projection data can be best prepared as input into the GCBM/FLINT. 
 
-Please participate in the development or improvement of the thinking behind this document.  
+This document is important to understand projections as basically, the automation of this preparation process provides the conceptual basis for the FLINT projections approach.
+
+This is a living document. Please participate in the development or improvement of the thinking behind this document.  
 
 https://docs.google.com/document/d/1hXj5CKeIiVknqmERQGllPJ1n-fTjPVvxZThCIBGlD1I/edit?usp=sharing
 
