@@ -53,7 +53,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 The following people are Maintainers Reviewers Ambassadors or Coaches
 
-<table><tr><td align="center"><a href="https://github.com/leitchy"><img src="https://avatars0.githubusercontent.com/u/3417817?v=4" width="100px;" alt=""/><br /><sub><b>James Leitch</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=leitchy" title="Code">💻</a></td>
+<table><tr><td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt=""/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="https://github.com/moja-global/FLINT.Projections/commits?author=gmajan" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mfellows"><img src="https://avatars0.githubusercontent.com/u/8548157?v=4" width="100px;" alt=""/><br /><sub><b>Max Fellows</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=mfellows" title="Code">💻</a></td></tr></table>
 
 **Maintainers** review and accept proposed changes  
